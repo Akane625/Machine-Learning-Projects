@@ -67,7 +67,7 @@ In this repository, I do some stuff with machine learing (ML) models. Earlier, t
 
 ---
 
-## Self Notes
+## Notes
 - **Self:** make sure to backup the things I write in the notebooks with graphs and numbers
 - **Starting 04/26/2026:** make one big notebook with a one week deadline, instead of small ones in a day
 - **About Notebook Reworks:** if a notebook gets reworked, make sure to place the updates on the last cell
