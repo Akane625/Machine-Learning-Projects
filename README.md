@@ -63,7 +63,7 @@ In this repository, I do some stuff with machine learing (ML) models. Earlier, t
 | **03/30/26** | **Full Gradient Boosting** | • Cross-validation + Grid search tuning |
 | **04/03/26** | **Feature Transformation (LPM)** | • Log transformation, Polynomial features |
 | **04/17/26** | **Notebook Rework I** | • Feature Transformation (LPM) |
-| **?** | **NLP Summarizer** | • Use NLP for summarization |
+| **06/16/26** | **NLP Summarizer** | • Use NLP for summarization |
 
 ---
 
