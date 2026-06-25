@@ -19,8 +19,8 @@ In this repository, I do some stuff with machine learing (ML) models. Earlier, t
 | **Bagging** | trains many models on bootstrapped samples and majority wins (classification) or average (regression) | Ensemble (Variance Reduction) / Parallel Learning |
 | **Random Forest (RF)** | bagging but randomizes features per split, final output based on majority wins (classification) or average (regression) | Ensemble (Tree-Based) / Parallel Learning |
 | **AdaBoost** | Improves on the misclassifications of previous models, learns from weak learners | Ensemble (Boosting) / Sequential Learning |
-| **Gradient Boosting** | improves on the residual errors of previous models | Ensemble (Boosting) / Sequential Learning |
-| **XGBoost** | ... | ... |
+| **Gradient Boosting** | iImproves on the residual errors of previous models | Ensemble (Boosting) / Sequential Learning |
+| **XGBoost** | Extreme gradient boosting is a more optimized and improved gradient boost with features like automatic null handling and regularization | Ensemble (Boosting) / Sequential Learning |
 | **Ridge Regression (L2)** | Shrinks coefficients to reduce overfitting | Regularization |
 | **Lasso Regression (L1)** | Shrink non-important coefficients to zero (feature selection) | Regularization |
 | **Elastic Net** | Combines L1 (Lasso) and L2 (Ridge) penalties | Regularization |
