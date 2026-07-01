@@ -64,7 +64,7 @@ In this repository, I do some stuff with machine learing (ML) models. Earlier, t
 | **04/03/26** | **Feature Transformation (LPM)** | • Log transformation, Polynomial features |
 | **04/17/26** | **Notebook Rework I** | • Feature Transformation (LPM) |
 | **06/19/26** | **NLP Summarizer** | • Use NLP for summarization |
-| ? | **?** | • Make use from a randomly selected dataset in Kaggle |
+| ? | **Heart Attack Prediction** | • Make use from a randomly selected dataset in Kaggle |
 
 ---
 
