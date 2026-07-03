@@ -54,7 +54,7 @@ In this repository, I do some stuff with machine learing (ML) models. Earlier, t
 
 ## Schedule
 
-| Date (MM/DD/YY) | Title | Details |
+| Published (MM/DD/YY) | Title | Details |
 |:---------------:|--------|--------|
 | **02/27/26** | **Understanding Classification Metrics** | • Accuracy, Precision, Recall, F1, ROC-AUC <br> • Additionally explore their mathematical approaches |
 | **03/03/26** | **F1 Dilemma + Metrics Review** | • When higher/lower F1 is better <br> • Review: $R^2$, Log-Likelihood, AIC, BIC |
